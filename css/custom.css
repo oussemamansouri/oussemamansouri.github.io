@@ -652,6 +652,18 @@ header .navbar.sticky-header{
 	margin: 0;
 }
 
+
+.btn-layout{
+	height: 70px;
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-evenly;
+}
+
+
+
+
+
 /***************************************/
 /*****     Portfolio Section css    ****/
 /***************************************/
